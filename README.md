@@ -18,15 +18,15 @@
 ## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
-- <a href ="#Started"> 💻 Get Started</a>
-- <a href ="#Pipeline"> ⛓️ Project Pipeline</a>
-- <a href ="#Modules">🤖  Modules</a>
-    - <a href="#Preprocessing">🔁 Preprocessing Module</a>
-    - <a href="#Feature">💪 Feature Extraction Module</a>
-    - <a href="#Selection">✅ Model Selection</a>
-    - <a href="#Performance">👌 Performance Module</a>
-- <a href ="#Contributors"> ✨ Contributors</a>
-- <a href ="#License"> 🔒 License</a>
+- <a href ="#started"> 💻 Get Started</a>
+- <a href ="#pipeline"> ⛓️ Project Pipeline</a>
+- <a href ="#modules">🤖  Modules</a>
+    - <a href="#preprocessing">🔁 Preprocessing Module</a>
+    - <a href="#feature">💪 Feature Extraction Module</a>
+    - <a href="#selection">✅ Model Selection</a>
+    - <a href="#performance">👌 Performance Module</a>
+- <a href ="#contributors"> ✨ Contributors</a>
+- <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 
 <a id = "about"></a>
