@@ -1,6 +1,6 @@
 <div align= >
 
-# <img align=center height=60px src="https://media1.giphy.com/media/YBypkW5Mlfz4znhCDD/giphy.gif?cid=ecf05e47pm5rbpvyte0zxbifp808lf554oysuxgmqjfaz04c&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Hand Gesture Recognition
+# 👋 Hand Gesture Recognition
 
 
 </div>
@@ -15,7 +15,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#started"> 💻 Get Started</a>
@@ -31,7 +31,7 @@
 
 <a id = "about"></a>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
+## 📙 Overview
 
 <ul>
 <li> Hand Gesture Recognition is a machine learning project that aims to recognize hand signs from 0 => 5</li>
@@ -56,7 +56,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> How To Run
+## 🚀 How To Run
 
 - First install the  <a href="https://github.com/AbdelrahmanHamdyy/Hand-Gesture-Recognition/blob/main/requirements.txt">needed packages</a>.</li> 
 
@@ -106,7 +106,7 @@ python main.py
 
 <a id = "Pipeline"></a>
 
-## <img  align= center width=60px src="https://media3.giphy.com/media/JpHBXrvMkAiWdRemW8/giphy.gif?cid=ecf05e47foyhm8nq26e7mg0is4r80fd5m2khgyyfnn3ih5dc&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Project Pipeline
+## 🧱 Project Pipeline
 <ol>
 <li>📷 Read images</li>
 <li>🔁 Preprocessing</li>
@@ -120,7 +120,7 @@ python main.py
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Modules"></a>
 
-## <img  align= center width=60px src="https://media0.giphy.com/media/j3nq3JkXp0bkFXcNlE/giphy.gif?cid=ecf05e47cftu8uth80woqhyl1kr7oy4m7zaihotdf9twrcaa&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Modules
+## 🤖 Modules
 <a id = "Preprocessing"></a>
 
 ### <img align= center width=50px src="https://media0.giphy.com/media/321AaGDATXT8dq4MDC/giphy.gif?cid=ecf05e47r2eazdcsf8tqp6diz0z2o24gcho6yy4kj4lu6ctb&ep=v1_stickers_search&rid=giphy.gif&ct=s">Preprocessing Module
@@ -180,7 +180,7 @@ src="https://github.com/AbdelrahmanHamdyy/Hand-Gesture-Recognition/assets/719862
 </ol>
 
 
-### <img align= center height=60px src="https://media2.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e47s7yfhenqvyko8mhsuci17skn4q8fdik83l0k6j1m&ep=v1_stickers_search&rid=giphy.gif&ct=s">Performance Module
+### ✅ Performance Module
 <strong>Compute Confusion Matrix</strong>
 <br>
 <div align="center">
@@ -190,7 +190,7 @@ src="https://github.com/AbdelrahmanHamdyy/Hand-Gesture-Recognition/assets/719862
 
 <a id ="Contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors 
+## 👑 Contributors 
 
 <table align="center" >
   <tr>
